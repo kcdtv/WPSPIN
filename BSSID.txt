@@ -1,0 +1,544 @@
+             www.crack-wifi.com              www.lampiweb.com                 www.auditoriaswireless.net
+                                  _    _______  ___________ _____ _   _ 
+                                 | |  | | ___ \/  ___| ___ \_   _| \ | |
+                                 | |  | | |_/ /\ `--.| |_/ / | | |  \| |
+                                 | |/\| |  __/  `--. \  __/  | | | . ` |
+                                 \  /\  / |    /\__/ / |    _| |_| |\  |
+                                  \/  \/\_|    \____/\_|    \___/\_| \_/
+   
+             www.crack-wifi.com              www.lampiweb.com                 www.auditoriaswireless.net
+        
+                                        _______________________
+                                       |                       | 
+                                       | SUPPORTED DEVICE LIST |                           
+                                       |_______________________| 
+
+   Provided by lampiweb team for the free softwares 
+  
+  
+                              - wpspin (a tiempo real) by betis-jesus 
+    
+                              - WPSpin 'GUI  by Maripuri
+    
+                              - WPSPIN linux by kcdtv
+    
+  
+Thanks to all the people that sent us data and helped us to provide the best tools as possible.
+ You can use this list in your scripts but should give credits to the lampiweb team and users for sharing and maintaining their data with you.
+Enjoy :) 
+  
+    -
+
+---------------------------------------------------
+Fabricante >   HUAWEI
+essid      >   FTE-XXXX 
+modelo     >   HG532c "Echo Life"
+---------------------------------------------------
+
+bssid soportados 
+
+04:C0:6F
+20:2B:C1
+28:5F:DB
+34:6B:D3
+80:B6:86
+84:A8:E4
+B4:74:9F
+BC:76:70
+CC:96:A0
+F8:3D:FF
+
+
+--------------------------------------------------
+Fabricante >   HUAWEI
+essid      >   vodafoneXXXX 
+modelo     >   HG566a
+--------------------------------------------------
+
+bssid soportados 
+
+5C:4C:A9
+62:23:3D          
+62:3C:E4          
+62:3D:FF            
+62:55:9C          
+62:7D:5E          
+62:96:BF         
+62:A8:E4
+62:B6:86           
+62:C0:6F
+62:C6:1F
+62:C7:14           
+62:CB:A8           
+62:E8:7B
+6A:1D:67           
+6A:23:3D           
+6A:3D:FF          
+6A:53:D4           
+6A:55:9C
+6A:6B:D3           
+6A:7D:5E           
+6A:A8:E4           
+6A:C0:6F           
+6A:C6:1F           
+6A:C7:14
+6A:CB:A8          
+6A:CD:BE           
+6A:D1:5E           
+6A:D1:67           
+72:1D:67           
+72:23:3D           
+72:3D:FF           
+72:53:D4           
+72:55:9C           
+72:6B:D3            
+72:7D:5E
+72:96:BF            
+72:A8:E4           
+72:C0:6F
+72:C7:14
+72:CB:A8           
+72:D1:5E            
+72:E8:7B     
+
+             www.crack-wifi.com              www.lampiweb.com                 www.auditoriaswireless.net
+
+
+--------------------------------------------------
+Fabricante >   Belkin
+essid      >   Belkin_N+_XXXXXX
+modelo     >   F5D8235-4 v 1000
+--------------------------------------------------
+
+bssid soportados 
+
+00:22:75  
+
+
+
+--------------------------------------------------
+Fabricante >   Belkin
+essid      >   belkin.XXX
+modelo     >   F9K1104(N900 DB Wireless N+ Routeur)
+--------------------------------------------------
+
+bssid soportados 
+
+08:86:3B  
+
+
+             www.crack-wifi.com              www.lampiweb.com                 www.auditoriaswireless.net
+
+
+--------------------------------------------------
+Fabricante >   Belkin 
+essid      >   belkin.XXX
+modelo     >   F5D8231-4  ver. 5000
+--------------------------------------------------
+
+bssid soportados
+
+00:1C:DF
+
+
+
+--------------------------------------------------
+Fabricante >   Teldat
+essid      >   WLAN_XXXX
+modelo     >   iRouter1104-W
+--------------------------------------------------
+
+bssid soportados
+
+00:A0:26
+
+
+             www.crack-wifi.com              www.lampiweb.com                 www.auditoriaswireless.net
+
+
+--------------------------------------------------
+Fabricante >   Zyxel
+essid      >   ZyXEL
+modelo     >   zyxel NBG-419n
+--------------------------------------------------
+
+bssid soportados
+
+50:57:F0
+
+
+
+-------------------------------------------------
+Fabricante >   Tenda
+essid      >   algoritmo original de zhaochunsheng
+modelo     >   W309R
+-------------------------------------------------
+
+bssid soportados
+
+C8:3A:35
+00:B0:0C
+08:10:75
+
+
+
+--------------------------------------------------
+Fabricante >   SAMSUNG
+essid      >   SEC_ LinkShare_XXXXXX
+modelo     >   SWL (Samsung Wireless Link)
+--------------------------------------------------
+
+bssid soportados
+
+E4:7C:F9
+80:1F:02
+
+
+             www.crack-wifi.com              www.lampiweb.com                 www.auditoriaswireless.net
+
+
+
+--------------------------------------------------
+Fabricante >   Conceptronic
+essid      >   C300BRS4A
+modelo     >   c300brs4a 
+--------------------------------------------------
+
+bssid soportados
+
+00:22:F7
+
+
+
+--------------------------------------------------
+Fabricante >   TP-LINK
+essid      >   TP-LINK_XXXXXX
+modelo     >   TD-W8961ND v2.1 
+--------------------------------------------------
+
+bssid soportados
+
+64:70:02
+B0:48:7A
+F8:D1:11
+
+
+             www.crack-wifi.com              www.lampiweb.com                 www.auditoriaswireless.net
+
+
+--------------------------------------------------
+Fabricante >   EDIMAX
+essid      >   Default
+modelo     >   3G-6200n
+--------------------------------------------------
+
+bssid soportados
+
+00:1F:1F
+
+
+
+
+
+
+--------------------------------------------------
+Fabricante >   EDIMAX
+essid      >   Default
+modelo     >   3G-6210n
+--------------------------------------------------
+
+bssid soportados
+
+00:1F:1F
+
+
+
+             www.crack-wifi.com              www.lampiweb.com                 www.auditoriaswireless.net
+
+
+
+--------------------------------------------------
+Fabricante >   KUZOMI
+essid      >   Default
+modelo     >   K1500
+--------------------------------------------------
+
+bssid soportados
+
+00:26:CE
+
+
+
+--------------------------------------------------
+Fabricante >   Samsung
+essid      >   Bbox-XXXXXXXX
+modelo     >   Bbox by samsung
+--------------------------------------------------
+
+bssid soportados
+
+5C:A3:9D 
+DC:71:44
+D8:6C:E9
+
+
+             www.crack-wifi.com              www.lampiweb.com                 www.auditoriaswireless.net
+             www.crack-wifi.com              www.lampiweb.com                 www.auditoriaswireless.net
+
+
+
+--------------------------------------------------
+Fabricante >   HUAWEI
+essid      >   Orange-XXXX
+modelo     >   HG530s
+--------------------------------------------------
+
+bssid soportados
+
+08:7A:4C
+E8:CD:2D
+0C:96:BF
+
+
+
+--------------------------------------------------
+Fabricante >   HUAWEI
+essid      >   HG532e-XXXXXX
+modelo     >   HG532e
+--------------------------------------------------
+
+bssid soportados
+
+EC:23:3D
+
+
+
+
+
++----------------------------------------------------------------------------------------------------+
+| SE HAN INCLUIDO LOS PIN(s) GENERICOS DEL HILO http://lampiweb.com/foro/index.php/topic,8188.0.html |
++----------------------------------------------------------------------------------------------------+
+
+
+             www.crack-wifi.com              www.lampiweb.com                 www.auditoriaswireless.net
+
+
+
+
+LISTA ROUTEURS y BSSID SOPORTADOS - PIN(s) GENERICO(s)
+
+
+-----------------------------------------------
+Fabricante >   OBSERVA TELECOM
+essid      >   WLAN_XXXX 
+modelo     >   AW4062
+-----------------------------------------------
+
+bssid soportados
+
+00:19:15 
+
+
+
+-----------------------------------------------
+Fabricante >   ZYXELL
+essid      >   WLAN_XXXX 
+modelo     >   P-870HW-51A V2
+-----------------------------------------------
+
+bssid soportados
+
+40:4A:03
+
+
+
+-----------------------------------------------
+Fabricante >   ZYXELL
+essid      >   WLAN_XXXX 
+modelo     >   P-870HNU-51B
+-----------------------------------------------
+
+bssid soportados
+
+FC:F5:28
+
+
+             www.crack-wifi.com              www.lampiweb.com                 www.auditoriaswireless.net
+
+
+-----------------------------------------------
+Fabricante >   OEM Shenzhen Gongjin Electronics
+essid      >   WLAN_XXXX 
+modelo     >   Encore ENDSL-4R5G
+-----------------------------------------------
+
+bssid soportados
+
+F4:3E:61
+00:1F:A4
+
+
+
+-----------------------------------------------
+Fabricante >   Comtrend
+essid      >   JAZZTEL_XXXX 
+modelo     >   AR-5387un
+-----------------------------------------------
+
+bssid soportados
+
+38:72:C0
+
+
+
+-----------------------------------------------
+Fabricante >  Comtrend
+essid      >  WLAN_XXXX 
+modelo     >  Gigabit 802.11n
+-----------------------------------------------
+
+bssid soportados
+
+00:1A:2B
+
+
+             www.crack-wifi.com              www.lampiweb.com                 www.auditoriaswireless.net
+
+
+-----------------------------------------------
+Fabricante >   ADB-Broadband
+essid      >   WLAN_XXXX 
+modelo     >   PDG-A4001N
+-----------------------------------------------
+
+bssid soportados
+
+30:39:F2
+74:88:8B
+A4:52:6F
+DC:0B:1A
+
+
+
+-----------------------------------------------
+Fabricante >  TP-LINK
+essid      >  TP-LINK_XXXXXX 
+modelo     >  TL-WA7510N
+-----------------------------------------------
+
+bssid soportados
+
+90:F6:52
+
+
+
+             www.crack-wifi.com              www.lampiweb.com                 www.auditoriaswireless.net
+
+
+
+-----------------------------------------------
+Fabricante >  SAGEM 
+essid      >  SAGEM_XXXX  
+modelo     >  fast 1704
+-----------------------------------------------
+
+bssid soportados
+
+7C:D3:4C
+
+
+
+
+-----------------------------------------------
+Fabricante >  BEWAN 
+essid      >  DartyBox_XXX_X  
+modelo     >  Bewan iBox V1.0
+-----------------------------------------------
+
+bssid soportados
+
+00:0C:C3
+
+
+             www.crack-wifi.com              www.lampiweb.com                 www.auditoriaswireless.net
+
+
+-----------------------------------------------
+Fabricante >  D-LINK
+essid      >  Dlink_XXXX  
+modelo     >  DSL-2750U
+-----------------------------------------------
+
+bssid soportados
+
+C8:D3:A3
+
+
+-----------------------------------------------
+Fabricante >  D-LINK
+essid      >  Dlink_XXXX  
+modelo     >  DSL-2730U
+-----------------------------------------------
+
+bssid soportados
+
+B8:A3:86
+
+
+
+
+-----------------------------------------------
+Fabricante >  ZTE  
+essid      >  MOVISTAR_XXXX   
+modelo     >  ZXHN_H108N
+-----------------------------------------------
+
+bssid soportados
+
+F8:1B:FA 
+F8:C3:46
+F8:ED:80
+
+
+  www.crack-wifi.com              www.lampiweb.com                 www.auditoriaswireless.net
+
+
+
+
+-----------------------------------------------
+Fabricante >  Observa Telecom  
+essid      >  MOVISTAR_XXXX   
+modelo     >  RTA01N_Fase2 
+-----------------------------------------------
+
+bssid soportados
+
+E4:C1:46
+
+
+
+-----------------------------------------------
+Fabricante >  Arris Interactive  L.L.C    
+essid      >  ARRIS-XXXX   
+modelo     >  DG950A
+-----------------------------------------------
+
+bssid soportados
+
+00:1D:CF
+
+
+
+
+
+
+
+
+                 www.crack-wifi.com              www.lampiweb.com                 www.auditoriaswireless.net
+
+
+                                                FOR SUPPORT VISIT
+
+                 www.crack-wifi.com              www.lampiweb.com                 www.auditoriaswireless.net
+
+
