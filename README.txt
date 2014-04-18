@@ -1,4 +1,3 @@
-
 # This scripts is edited under the General Public License as defined by the Free software foundation. 
 # This package is distributed in the hope that it will be useful, but without any warranty; It can be used and modified and shared but should be referenced to, it CANNOT be 
 # sold or be used for a commercial-economical purpose.
